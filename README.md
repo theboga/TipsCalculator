@@ -19,11 +19,11 @@ https://user-images.githubusercontent.com/9596542/229987068-b711c541-18ff-43ba-b
 
 ## Features
 
-- [x] Reccomendation for movies and series
-- [x] Trailers and information about the show
-- [x] Actors Starring and Information for Artist
-- [x] Infromation for Directos
-- [x] Series new recomendations Netflix Star+ Disney+ HBO Max
+- [x] One Hand UX
+- [x] Insert the Amount
+- [x] Slide to select the persons fix
+- [x] Select the percent to TIP
+- [x] View the result in realtime
 ## Requirements
 
 - iOS 15.0+
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/9596542/229987068-b711c541-18ff-43ba-b
 You can use `Git Clone` to clone the repository and run the app.
 
 ```
-https://github.com/theboga/Recommend.git
+https://github.com/theboga/TipsCalculator.git
 ```
 
 
